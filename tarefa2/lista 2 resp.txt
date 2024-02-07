@@ -1,0 +1,45 @@
+1- portenciais class em um sistema de gestao de super mercado:
+
+1-Produto
+2-cliente
+3-funcionario
+4-gerente
+5-carrinho
+6-promoção 
+
+2-potenciais classes em sistema de gestao em sala de aula
+
+1-aluno
+2-professor
+3-carteira
+4-lousa
+5-cadeira
+
+3-
+a) as classes e uma classificação de dados; e ela e composta por metodos e atribustos.
+
+b) objetos nada mais é uma class instanciada, que apartir desta class voce cria objeto que erdam os atribustos desta class.
+
+c) os objetos são criados apartir de uma class e definindo suas caracteristicas atraves dos atributos desta class.
+
+4-
+
+1) ----c) nome da classe
+
+2) ----b) atributos
+
+3) ----a)metodos
+
+
+5-PROGRM
+
+6-PROGRM
+
+7- o metodo construtor serve para a acriaçõa de uma objeto de determinada classe. Ele se diferencia dos outros metodos por possui o mesmo nome da classe e
+não possuir indicação de tipo de retorno, nem mesmo o void; e ele e referenciado  atraves do operador "new" que cria um novo objeto.
+
+8-Sim, pode-se utilizar  a tipagem void caso o metodo não for retornar nenhum valor.
+
+9-os metodos pode conter ou necessitar de 0 a n paramestros.
+
+10- os metedos tem a finalidade de definir os comportamentos que determinada classe ou obejeto tera no seu sistema
